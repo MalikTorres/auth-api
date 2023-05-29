@@ -9,7 +9,7 @@
 Debug the server and get routes working
 ### Links and Resources
 
-- [GitHub Actions ci/cd]()
+- [GitHub Actions ci/cd](https://github.com/MalikTorres/auth-api)
 - [back-end server](https://bearer-auth-r674.onrender.com)
 
 
