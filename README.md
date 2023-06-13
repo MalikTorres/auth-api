@@ -6,7 +6,7 @@
 
 ### Problem Domain
 
-Debug the server and get routes working
+Implement authentication to the server
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/MalikTorres/auth-api)
@@ -18,7 +18,7 @@ I referenced Ryan Gallaways demo and implemented test with the help of AI
 
 ### Setup
 
-Install required dependecies and create postgre database
+Install required dependecies and create postgres database
 
 #### `.env` requirements (where applicable)
 
